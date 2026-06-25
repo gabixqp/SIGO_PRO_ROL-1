@@ -1,0 +1,5 @@
+id_feedback,id_pedido,id_cliente,puntuacion,comentario,fecha
+FEB001,PED001,CLI001,5,Entrega puntual y comida conforme.,2026-02-03
+FEB002,PED002,CLI002,3,"Buena calidad, pero hubo retraso.",2026-02-05
+FEB003,PED005,CLI005,4,Pedido correcto.,2026-02-07
+FEB004,PED006,CLI006,5,Servicio adecuado para atención institucional.,2026-02-08

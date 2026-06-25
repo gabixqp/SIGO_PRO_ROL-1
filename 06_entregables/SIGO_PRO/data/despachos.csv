@@ -1,0 +1,6 @@
+id_despacho,id_pedido,fecha_programada,fecha_entrega,estado
+DES001,PED001,2026-02-03,2026-02-03,entregado
+DES002,PED002,2026-02-04,2026-02-05,retrasado
+DES003,PED005,2026-02-07,2026-02-07,entregado
+DES004,PED006,2026-02-08,2026-02-08,entregado
+DES005,PED003,2026-02-06,,programado

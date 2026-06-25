@@ -1,0 +1,6 @@
+id_orden,id_producto,cantidad,fecha,estado
+ORD001,PRO001,50,2026-02-03,completada
+ORD002,PRO002,60,2026-02-04,completada
+ORD003,PRO005,30,2026-02-05,en_proceso
+ORD004,PRO003,40,2026-02-08,completada
+ORD005,PRO004,30,2026-02-10,pendiente

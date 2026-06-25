@@ -1,0 +1,8 @@
+id_pedido,id_cliente,fecha,canal,estado,total
+PED001,CLI001,2026-02-03,Institucional,entregado,700.0
+PED002,CLI002,2026-02-04,Corporativo,entregado,960.0
+PED003,CLI003,2026-02-05,Mayorista,en_produccion,390.0
+PED004,CLI004,2026-02-06,Delivery,registrado,43.5
+PED005,CLI005,2026-02-07,Corporativo,despachado,560.0
+PED006,CLI006,2026-02-08,Institucional,entregado,840.0
+PED007,CLI002,2026-02-10,Corporativo,registrado,540.0

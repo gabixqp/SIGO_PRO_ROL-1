@@ -1,0 +1,9 @@
+id_producto,nombre,categoria,precio_venta,stock_actual,stock_minimo,unidad
+PRO001,Empanada de pollo,Almuerzo,14.0,35,20,unidad
+PRO002,Menú ejecutivo de res,Almuerzo,16.0,22,15,unidad
+PRO003,Ají de gallina,Plato criollo,15.0,18,12,porción
+PRO004,Lomo saltado,Plato criollo,18.0,10,10,porción
+PRO005,Arroz chaufa,Plato preparado,13.0,28,15,porción
+PRO006,Ensalada fresca,Complemento,8.0,12,10,porción
+PRO007,Refresco de maracuyá,Bebida,4.0,45,25,vaso
+PRO008,Postre de gelatina,Postre,3.5,30,20,unidad
