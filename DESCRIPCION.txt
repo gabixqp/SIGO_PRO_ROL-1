@@ -1,0 +1,6 @@
+01_design_brief/     → documento principal de diseño
+02_moodboard/        → imágenes de inspiración visual
+03_referencias_ui/   → capturas de apps parecidas
+04_wireframes/       → bocetos de pantallas
+05_flujos_usuario/   → recorridos del usuario
+06_componentes/      → botones, cards, tablas, alertas, etc.
