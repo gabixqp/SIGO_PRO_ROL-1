@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+**/__pycache__/
+*.pyc
+**/*.pyc
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+**/.venv/
+**/venv/
+**/env/
+
+# Editores
+.idea/
+**/.idea/
+.vscode/
+**/.vscode/
+*.iml
+**/*.iml
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Temporales
+*.log
+*.tmp
+*.bak
+~$*
+
+# Carpetas generadas por el sistema
+backups/
+logs/

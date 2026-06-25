@@ -1,0 +1,13 @@
+id_insumo,nombre,unidad,stock_actual,stock_minimo,costo_unitario,merma_pct
+INS001,Arroz,kg,80,30,4.2,2
+INS002,Pollo,kg,45,20,10.5,8
+INS003,Carne de res,kg,25,15,18.0,10
+INS004,Papa,kg,60,25,2.8,5
+INS005,Cebolla,kg,20,12,3.0,7
+INS006,Tomate,kg,18,10,3.5,8
+INS007,Lechuga,unidad,35,15,1.8,12
+INS008,Fideos,kg,30,10,5.0,2
+INS009,Aceite,litro,22,8,8.5,1
+INS010,Maracuyá,kg,16,10,6.0,15
+INS011,Azúcar,kg,25,8,3.8,1
+INS012,Gelatina,kg,6,5,12.0,3

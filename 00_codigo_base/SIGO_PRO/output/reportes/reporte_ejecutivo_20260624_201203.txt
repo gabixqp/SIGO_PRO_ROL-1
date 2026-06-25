@@ -1,0 +1,12 @@
+SIGO-PRO FoodOps - Reporte ejecutivo
+
+total_pedidos: 7
+ventas_totales: 4033.5
+clientes: 9
+productos: 8
+productos_criticos: 1
+porcentaje_despachos_retrasados: 20.0
+
+Recomendaciones:
+- Reponer o producir Lomo saltado: stock bajo.
+- Revisar capacidad operativa: despachos retrasados sobre 15%.
